@@ -291,6 +291,7 @@ local ad2kicad_pinType = {
   [5] = "T_HiZ",
   [6] = "E_Open Emitter",
   [7] = "W_Power",
+  [8] = "W_power",
 }
 
 local function split_name(n)
