@@ -1,0 +1,7 @@
+local kicad = {
+    build
+}
+
+return kicad
+start)cad_script 
+restart)cad_script 
